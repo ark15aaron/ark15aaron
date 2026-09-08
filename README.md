@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="./Cyber-Tech%20Developer%20Brand%20Banner.png" width="100%" />
+<img src="./banner.png" width="100%" />
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -49,15 +48,15 @@ I enjoy learning new technologies, building projects, exploring cybersecurity, a
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ark15aaron">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/aaronkalwar/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM/">
+<a href="https://www.instagram.com/aaron__kalwar/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
