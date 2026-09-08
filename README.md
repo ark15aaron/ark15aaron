@@ -2,9 +2,9 @@
 
 # ⚡ AARON KALWAR
 
-### 🔐 Cybersecurity • 🌐 Web Development • 🤖 AI
+### 🔐 Offensive Security • 🌐 Full-Stack Development • 🤖 Python & AI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:1f2937&height=190&section=header&text=AARON%20KALWAR&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SECURITY%20%E2%80%A2%20WEB%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE&descAlignY=62&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:1f2937&height=190&section=header&text=AARON%20KALWAR&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SECURITY%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20PYTHON%20%26%20AI&descAlignY=62&descSize=14" />
 
 </div>
 
@@ -12,17 +12,19 @@
 
 ## 👋 Hello, I'm Aaron
 
-I'm **Aaron Kalwar**, a technology enthusiast interested in building,
-learning, and understanding modern technology.
+I'm **Aaron Kalwar**, a technology enthusiast focused on
+**offensive security, full-stack development, and artificial intelligence**.
 
-My main areas of interest are:
+I enjoy building applications, understanding how systems work,
+and exploring how they can be secured and tested.
 
-- 🔐 **Cybersecurity**
-- 🌐 **Web Development**
-- 🤖 **Artificial Intelligence**
+My interests sit at the intersection of:
 
-I believe the best way to learn technology is to **build things,
-break things, understand them, and improve them.**
+- 🔐 **Offensive Security**
+- 🌐 **Full-Stack Development**
+- 🤖 **Python & Artificial Intelligence**
+
+> **Build. Secure. Break. Learn. Improve.**
 
 ---
 
@@ -30,38 +32,40 @@ break things, understand them, and improve them.**
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
-### 🔐 Cybersecurity
+### 🔐 Offensive Security
 
-Security  
-Linux  
 Web Security  
-Networking
+Penetration Testing  
+Vulnerability Research  
+Linux & Networking
 
 </td>
 
 <td width="33%" align="center">
 
-### 🌐 Web Development
+### 🌐 Full-Stack Development
 
-HTML  
-CSS  
-JavaScript  
-Web Applications
+Frontend  
+Backend  
+APIs  
+Databases
 
 </td>
 
 <td width="33%" align="center">
 
-### 🤖 Artificial Intelligence
+### 🤖 Python & AI
 
 Python  
-AI  
+Artificial Intelligence  
 Machine Learning  
-Intelligent Applications
+AI Applications
 
 </td>
+
 </tr>
 </table>
 
@@ -71,66 +75,42 @@ Intelligent Applications
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,linux" />
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+
+<br><br>
+
+### 🐧 Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 
 </div>
 
 <br>
 
-| Technology | Status |
+| Category | Technologies |
 |---|---|
-| 🐍 Python | 🟢 Learning |
-| 🌐 HTML | 🟢 Learning |
-| 🎨 CSS | 🟢 Learning |
-| ⚡ JavaScript | 🟢 Learning |
-| 🐧 Linux | 🟢 Learning |
+| 🐍 Programming | Python |
+| 🌐 Frontend | HTML • CSS • JavaScript |
+| 🐧 Systems | Linux |
+| 🛠️ Tools | Git • GitHub • VS Code |
 
 ---
 
-## 🚀 Projects
-
-### 🏫 School Management System
-
-A practical school management project designed around student
-management, fees, attendance, notices, and administration.
-
-**Focus:** `Web Development` `Management Systems`
-
----
-
-### 💰 Billing Management System
-
-A billing system focused on organized fee management and
-printable bills.
-
-**Focus:** `Web Development` `UI` `Data Management`
-
----
-
-### 🐍 Python Projects
-
-A growing collection of Python programs and projects created
-while developing programming and problem-solving skills.
-
-**Focus:** `Python` `Programming` `Problem Solving`
-
----
-
-### 🔐 Cybersecurity Labs
-
-A collection of learning experiments and practical work related
-to Linux, networking, web security, and cybersecurity.
-
-**Focus:** `Linux` `Networking` `Cybersecurity`
-
----
-
-## 📚 Currently Learning
+## 🧭 Technology Interests
 
 ```text
-Python              ████████░░░░  Building foundations
-Web Development     ███████░░░░░  Building projects
-Linux               ██████░░░░░░  Exploring
-JavaScript          █████░░░░░░░  Improving
-Cybersecurity       ████░░░░░░░░  Exploring
-Artificial Intel.   ███░░░░░░░░░  Exploring
+                    AARON KALWAR
+                          │
+          ┌───────────────┼───────────────┐
+          │               │               │
+          ▼               ▼               ▼
+     🔐 SECURITY      🌐 DEVELOPMENT    🤖 AI
+          │               │               │
+          │               │               │
+   Offensive Security   Full-Stack       Python
+   Web Security         Frontend         AI
+   Pentesting           Backend          ML
+   Vulnerability        APIs             AI Apps
+   Research             Databases
